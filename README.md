@@ -1,4 +1,4 @@
-PROBLEM STATEMENT
+PROBLEM STATEMENT:
 Let P be a set of n points in a 2-dimensional plane. 
 A point p belongs to P is a Pareto-optimal if no other point is both above and to the right of p. 
 The sorted sequence of Pareto-optimal points describes a top-right staircase with the interior points of P below and to the left oof the staircase. 
